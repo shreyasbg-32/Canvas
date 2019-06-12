@@ -4,7 +4,7 @@ body{
 :hover{
     background-color:greenyellow;
 }
-div.rem,p{
+div.rem p{
     color: greenyellow;
     font-size:25px;
 }
